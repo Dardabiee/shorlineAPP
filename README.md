@@ -4,15 +4,10 @@ A new Flutter project.
 
 ![mockup-shorlineApp](https://github.com/user-attachments/assets/bb13ac40-0456-4216-8747-1dc718675636)
 
-## Getting Started
+# Description
+Shorline App is a Flutter-based application designed to make it easier for users to book and purchase beach tickets. The app supports both mobile and web platforms, featuring key functionalities such as beach search, online ticket purchasing, and reservation management.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Key Features
+ - Beach Search: Find the best beaches based on your location and preferences.
+ - Online Ticket Purchasing: Book beach tickets directly through the app with various payment methods.
+ - Reservation Management: Easily view and manage your ticket reservations.
