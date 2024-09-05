@@ -1,4 +1,4 @@
-# shorline_app
+# Shorline App
 
 A new Flutter project.
 
