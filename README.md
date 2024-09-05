@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![mockup-shorlineApp](https://github.com/user-attachments/assets/bb13ac40-0456-4216-8747-1dc718675636)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
