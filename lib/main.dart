@@ -1,7 +1,12 @@
+import 'package:device_preview/device_preview.dart';
 import 'package:flutter/material.dart';
 import 'package:shorline_app/home_screen.dart';
 void main() {
-  runApp(const MyApp());
+  runApp(
+    DevicePreview(
+    enabled: true,
+    builder: (context) => MyApp()
+  ));
 }
 
 class MyApp extends StatefulWidget {
@@ -16,6 +21,9 @@ class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      useInheritedMediaQuery: true,
+      locale: DevicePreview.locale(context),
+      builder: DevicePreview.appBuilder,
       home: HomeScreen()
     );
   }
