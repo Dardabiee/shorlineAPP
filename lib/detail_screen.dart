@@ -88,7 +88,7 @@ class DetailScreen extends StatelessWidget {
                                 color: Colors.black38,
                               ),
                               Text(
-                                "${place.location}, indonesia",
+                                "${place.location}, Indonesia",
                                 style: const TextStyle(
                                   fontSize: 16,
                                   fontWeight: FontWeight.w500,
